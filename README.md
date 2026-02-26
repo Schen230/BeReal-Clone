@@ -1,6 +1,7 @@
 # BeReal App (Completed)
 
 Submitted by: Sunny Chen
+
 BeReal is an app that simulates a social media photo sharing application similat to Instagram. It allows users to post a photo from their library and include a caption.
 After posting a photo, it will be visible in the feed where they can also see past uploaded photos.
 The user will be able to register and log in to the application which is done through a Parse server.
