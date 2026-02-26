@@ -1,13 +1,38 @@
-# Project 3 - BeReal Pt. 2
+# BeReal App (Completed)
 
-Submitted by: Sunny Chen | Z23304224
+Submitted by: Sunny Chen
 
-BeReal Pt. 2 is an app that simulates a social media photo sharing application similar to Instgram. The Pt. 2 of this application adds new features such
+BeReal is an app that simulates a social media photo sharing application similar to Instgram. The Pt. 2 of this application adds new features such
 as allowing the user to launch the camera and take photos instead of just selecting an image from the photo library. Users are now not able to see photos
 posted by other users until they upload their own. Users will be able to comment on posts and see others who have also commented on posts. The photos 
 have a time attached and users will only be able to see photos posted within the last 24 hrs.
 
-Time spent: 5 hours spent in total
+# Part 1 of Application
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [X] Users see an app icon in the home screen and a styled launch screen.
+- [X] User can register a new account
+- [X] User can log in with newly created account
+- [X] App has a feed of posts when user logs in
+- [X] User can upload a new post which takes in a picture from photo library and an optional caption	
+- [X] User is able to logout	
+ 
+The following **optional** features are implemented:
+
+- [X] Users can pull to refresh their feed and see a loading indicator
+- [X] Users can infinite-scroll in their feed to see past the 10 most recent photos
+- [] Users can see location and time of photo upload in the feed	
+- [X] User stays logged in when app is closed and open again	
+
+The following **additional** features are implemented:
+
+- [X] The "Post" button is grayed out and not available to the user until they select an image they would like to post.
+
+
+# Part 2 of Application
 
 ## Required Features
 
